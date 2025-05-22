@@ -1,1 +1,0 @@
-# Készítsen programot faktoriális számolásra.
